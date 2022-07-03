@@ -1,2 +1,3 @@
-# react-load-image-crop
-Created with CodeSandbox
+# Loader and cropper image
+
+Пример загрузки изображения с устройства пользователя с последующей обрезкой и получением результата в base64.
